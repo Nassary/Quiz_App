@@ -1,0 +1,92 @@
+[
+    {
+        "title":"What is the full name of FAT?",
+        "answer_1" :"File attribute table",
+        "answer_2" :"File allocation table",
+        "answer_3" :"Font attribute table",
+        "answer_4" :"Format allocation table",
+        "right_answer" :"File allocation table"
+    },
+
+    {
+        "title":" Which of the following is not an operating system?",
+        "answer_1" :"Windows",
+        "answer_2" :"Linux",
+        "answer_3" :"Oracle",
+        "answer_4" :"DOS",
+        "right_answer" :"Oracle"
+    },
+
+    {
+        "title":"What is the maximum length of the filename in DOS?",
+        "answer_1" :"4",
+        "answer_2" :"5",
+        "answer_3" :"8",
+        "answer_4" :"12",
+        "right_answer" :"8"
+    },
+
+    {
+        "title":" When was the first operating system developed?",
+        "answer_1" :"1994",
+        "answer_2" :"1990",
+        "answer_3" :"1992",
+        "answer_4" :"1985",
+        "right_answer" :"1985"
+    },
+
+    {
+        "title":"When were MS windows operating systems proposed?",
+        "answer_1" :"Object-Oriented",
+        "answer_2" :"Object-Based",
+        "answer_3" :"Assembly-language",
+        "answer_4" :"High-level",
+        "right_answer" :"Object-Based"
+    },
+
+    {
+        "title":"BIOS is used?",
+        "answer_1" :"By operating system",
+        "answer_2" :"By compiler",
+        "answer_3" :"By interpreter",
+        "answer_4" :"By application software",
+        "right_answer" :"By operating system"
+    },
+
+    {
+        "title":"When were MS windows operating systems proposed?",
+        "answer_1" :"Object-Oriented",
+        "answer_2" :"Object-Based",
+        "answer_3" :"Assembly-language",
+        "answer_4" :"High-level",
+        "right_answer" :"Object-Based"
+    },
+
+    {
+        "title":"BIOS is used?",
+        "answer_1" :"By operating system",
+        "answer_2" :"By compiler",
+        "answer_3" :"By interpreter",
+        "answer_4" :"By application software",
+        "right_answer" :"By operating system"
+    },
+    {
+        "title":"When were MS windows operating systems proposed?",
+        "answer_1" :"Object-Oriented",
+        "answer_2" :"Object-Based",
+        "answer_3" :"Assembly-language",
+        "answer_4" :"High-level",
+        "right_answer" :"Object-Based"
+    },
+
+    {
+        "title":"BIOS is used?",
+        "answer_1" :"By operating system",
+        "answer_2" :"By compiler",
+        "answer_3" :"By interpreter",
+        "answer_4" :"By application software",
+        "right_answer" :"By operating system"
+    }
+    
+    
+]
